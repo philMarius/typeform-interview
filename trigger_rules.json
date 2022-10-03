@@ -1,0 +1,8 @@
+{
+    "include": [
+        {
+            "trigger_rule": "accounts_processed",
+            "task_name": "newbizz_process"
+        }
+    ]
+}
